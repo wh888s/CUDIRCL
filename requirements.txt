@@ -1,0 +1,6 @@
+astra-toolbox>=2.0
+matplotlib>=3.5
+numpy>=1.21
+scikit-image>=0.19
+scipy>=1.7
+torch>=1.12
